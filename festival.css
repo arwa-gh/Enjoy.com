@@ -1,0 +1,69 @@
+/*Nav*/
+.logo{
+    width: 7.5em;
+}
+nav,footer{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.7em;
+}
+a.mot{
+    color:#000000 !important;
+}
+a.mot:hover{
+    color: #FFC373 !important;
+}
+
+li{
+    margin-right: 2em;
+}
+
+/*main*/
+.wid{
+    height: 12em;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 5em;
+    color: rgba(2, 2, 2, 0.938);
+}
+h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+    color: rgba(12, 11, 11, 0.712);
+}
+h5{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5em;
+}
+p{
+    font-family: 'Vollkorn', serif;
+    font-size: 1.1em;
+}
+
+.wid{
+    height: 12em;
+}
+.btncolor{
+    background-color: #FFC373 !important;
+    font-family: 'Vollkorn', serif;
+}
+
+/*footer*/
+.lofo{
+    width: 13em;
+}
+
+.longsearch{
+    width: 16.8em;
+    height: 3em;
+}
+.btndeco{
+    background-color: #FFC373;
+}
+
+.cont{
+    flex-direction: column;
+}
+.decotex{
+    color: black;
+}

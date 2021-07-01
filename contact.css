@@ -1,0 +1,125 @@
+/*Nav*/
+.logo{
+    width: 7.5em;
+}
+nav,footer{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.7em;
+}
+a.mot{
+    color:#000000 !important;
+}
+a.mot:hover{
+    color: #FFC373 !important;
+}
+
+li{
+    margin-right: 2em;
+}
+
+/*main*/
+body{
+    background-image: linear-gradient(120deg, #fab89e8e 0%, #f5f858ab 100%) ;
+}
+
+.img{
+    width: 23em;
+}
+.hei{
+    height: 4em;
+    font-family: 'Pacifico', cursive;
+}
+.hei1{
+    height: 15em;
+}
+
+.couleur{
+    background-color: #FFC373;
+    width: 9em;
+}
+.couleur:hover{
+    background-color: #d87345;
+}
+.p{
+    font-size: 1.5em;
+    font-family: 'Pacifico', cursive;
+}
+p{
+    font-family: 'Vollkorn', serif;
+    font-size: 1.2em;
+}
+h4{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: #ffad40;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 4em;
+}
+.text{
+    font-family: 'Vollkorn', serif;
+    font-size: 1.5em;
+}
+
+
+/*Les mini cadres*/
+.carre{
+    height: 17em;
+    background-color: #ffffffd5;
+    border-radius: 20px;
+    box-shadow:  0 0 20px rgb(0, 0, 0, 0.4);
+    width: 19em;
+}
+.mini{
+    width: 5em;
+}
+.mini1{
+    width: 4em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+.lofo{
+    width: 13em;
+}
+
+.longsearch{
+    width: 16.8em;
+    height: 3em;
+}
+.btndeco{
+    background-color: #FFC373;
+}
+
+.cont{
+    flex-direction: column;
+}
+.decotex{
+    color: black;
+}

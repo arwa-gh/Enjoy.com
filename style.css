@@ -1,0 +1,93 @@
+/*Nav*/
+.logo{
+    width: 7.5em;
+}
+nav,footer{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.7em;
+}
+a.mot{
+    color:#000000 !important;
+}
+a.mot:hover{
+    color: #FFC373 !important;
+}
+
+li{
+    margin-right: 2em;
+}
+
+
+/*main*/
+
+/*carousel*/
+.carousel-inner{
+    height: 35em;
+    object-fit: cover;
+    background-position: center ;
+    display: flex;
+    align-items: center;
+}
+/*Les mini cadres*/
+.carre{
+    height: 18em;
+    background-color: #ffffffd5;
+    border-radius: 20px;
+    box-shadow:  0 0 20px rgb(0, 0, 0, 0.4);
+    width: 19em;
+}
+.mini{
+    width: 5em;
+}
+.mini1{
+    width: 4em;
+}
+/*Les rectangles*/
+.phrec{
+    height: 14em;
+    width: 25em;
+
+}
+h3{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: #fe8373;
+}
+.btncolor{
+    background-color: #FFC373;
+}
+p{
+    font-family: 'Vollkorn', serif;
+    font-size: 1.2em;
+}
+h4{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: #ffad40;
+}
+
+
+
+
+
+
+
+/*footer*/
+.lofo{
+    width: 13em;
+}
+
+.longsearch{
+    width: 16.8em;
+    height: 3em;
+}
+.btndeco{
+    background-color: #FFC373;
+}
+
+.cont{
+    flex-direction: column;
+}
+.decotex{
+    color: black;
+}

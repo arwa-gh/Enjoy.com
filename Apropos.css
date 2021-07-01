@@ -1,0 +1,51 @@
+/*Nav*/
+.logo{
+    width: 7.5em;
+}
+nav,footer{
+    font-family: 'Pacifico', cursive;
+    font-size: 1.7em;
+}
+a.mot{
+    color:#000000 !important;
+}
+a.mot:hover{
+    color: #FFC373 !important;
+}
+
+li{
+    margin-right: 2em;
+}
+
+/*Main*/
+.icon{
+    width: 12em;
+}
+
+h4,h3{
+    font-family: 'Pacifico', cursive;
+}
+p{
+    font-family: 'Vollkorn', serif;
+    font-size: 1em;
+}
+
+/*footer*/
+.lofo{
+    width: 13em;
+}
+
+.longsearch{
+    width: 16.8em;
+    height: 3em;
+}
+.btndeco{
+    background-color: #FFC373;
+}
+
+.cont{
+    flex-direction: column;
+}
+.decotex{
+    color: black;
+}
